@@ -10,12 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
 		
-		//SampleModel
-		 //This file to delete
-		 //
-		 //
-		 
-		 //
-		 //TEst 
+		//Meaningful comments
+		
+		System.out.println( "See you again!" );
     }
 }
